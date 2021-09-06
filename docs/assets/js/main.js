@@ -8,7 +8,11 @@
 
 	var	$window = $(window),
 		$body = $('body');
-
+	
+<!-- Pixel Code for https://app.watchthem.live/ -->
+<script defer src="https://app.watchthem.live/pixel/undefined"></script>
+<!-- END Pixel Code -->
+	
 	// Breakpoints.
 		breakpoints({
 			xlarge:  [ '1281px',  '1680px' ],
